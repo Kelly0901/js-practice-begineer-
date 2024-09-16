@@ -9,7 +9,7 @@
 <body>
     <h1>javescript begineer class</h1>
     
-    <script>
+    <script scr="test.js">
         
     </script>
 </body>
